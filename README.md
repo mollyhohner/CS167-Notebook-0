@@ -7,7 +7,7 @@ For all notebooks, I will include the instructions in the README.md file (the fi
 There are 4 parts to Notebook 0: 
 1. Fill out the [Introductory Questionnaire](https://tinyurl.com/3t2ustza)
 2. Create your Participation Card
-3. Get [GitHub Set Up](https://classroom.github.com/classrooms/123478730-s23-cs167)
+3. Get [Get CodePost and GitHub Set Up](https://codepost.io/signup/join?code=ZDA9A921DE)
 4. (optional) Add some music to the [CS167 Spotify Playlist](https://open.spotify.com/playlist/0rTRc8YwER0mJJDylLTfk8?si=7f6319f4854040db)
 <!-- 4. Sign up for [PollEverywhere](https://PollEv.com/meredithmoore011/register)-->
 
