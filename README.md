@@ -1,4 +1,4 @@
-# CS167: Notebook 0
+# CS167: Notebook 0 
 For all notebooks, I will include the instructions in the README.md file (the file you see when you open up a repository on GitHub, which you are reading right now). 
 
 > Most Notebooks will also have a starter code in the repository (which you can generally see in the section above this text). The starter code generally provides a push in the right direction as well as some organization for the assignment. However, this assignment doesn't really have any code associated with it, so it will just live as a README file. 
